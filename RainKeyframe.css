@@ -1,0 +1,13 @@
+@keyframes RainDown
+{
+  0%{ 
+    position: absolute;
+    opacity: 1.0;
+  }
+  100%{
+    position: absolute;
+    top: 850px;
+    opacity: 0.0;
+  }
+}
+
